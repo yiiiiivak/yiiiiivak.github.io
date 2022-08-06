@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/yiiiiivak/yiiiiivak.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yiiiiivak/yiiiiivak.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+​
+- 🔭 &nbsp; 大家好，我是yiiiiivak
+- 🤔 &nbsp; 非常欢迎你来访问我的Github
+​
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+       <a href="https://yiiiiivak.github.io">博客</a>
+       <br><br><br>
+       记录知识
+      </td>
+      <td width="25%" align="center">
+       <a href="https://juejin.cn/user/493043443054494">掘金</a>
+       <br><br><br>
+       技术文章
+     </td>
+     <td width="25%" align="center">
+       <a href="https://game.scalerwang.com">游戏</a>
+      <br><br><br>
+       开源游戏
+     </td>
+      <td width="25%" align="center">
+       <a href="https://blog.csdn.net/qq_41327483">CSDN</a>
+       <br><br><br>
+       爬坑日记
+     </td>
+    </tr>
+  </tbody>
+</table>
+​
